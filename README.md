@@ -15,4 +15,4 @@
 
 ### Link de nuestro proyecto:
 
-### link de gibhubpage: 
+### link de Git Hub Pages: 
