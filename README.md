@@ -16,8 +16,8 @@
 
 ### Es muy facil usar nuestra pagina web: comensamos con un pequeño inicio "nick name" solo pones un nombre que quieras y te mandara automaticamente te mandara al incio de la pagina donde puedes ver un espacio de busqueda, contactos, inicio,filtros en la parte superior en la parte del medio podremos ver la varidad que gemas y con esto con un solo clik podras ver sus apariciones canciones y peliculas, desde gemas sin relevancia hasta las mas poderosas. 
 
-# psicologia del color:
-##Elegimos los colores principales:
+# psicologia del color 
+## Elegimos los colores principales:
 ### el rosa : #F4D4FB
 ### el azul oscuro: #131868
 ### rosa/morado oscuro: #AF42B9
