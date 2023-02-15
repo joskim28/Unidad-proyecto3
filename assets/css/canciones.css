@@ -208,7 +208,7 @@ header{
     height: 100%;
     position: fixed;
     left: 0;
-    background: rgba(0,0,0,0.5);
+    background: rgba(188, 234, 255, 0.301);
     z-index: 7;
     display: none;
 }
@@ -288,6 +288,15 @@ footer .redes-footer .fa-instagram:hover{
     color: #8e8e8e;
     font-weight: 500;
 }
+
+.estadis{
+    display: flex;
+    justify-content: center;
+    
+}
+#grafico{
+    width: 400px;
+ }
 
 /* Responsive Design - adaptable a dispositivos moviles*/
 

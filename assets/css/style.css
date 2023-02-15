@@ -7,7 +7,15 @@
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
 }
-
+.estadis{
+    font-family: 'Concert One';font-size: 50px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    background-color:#ffffffe1;
+    background-color: rgba(238, 182, 97, 0.247);
+}
 :root{
     --color_text-primary: #af42b9;
     --color_text-secundary: #162d44;
