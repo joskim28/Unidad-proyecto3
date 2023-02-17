@@ -27,3 +27,9 @@ Una pagina totalmente dirigida al publico que le gusta steven universe y quiere 
 
 
 ### link de Git Hub Pages: 
+
+### Opinion del usuario:
+#### En el inicio me agrada el fondo de pantalla, como también el blanco representa paz, la pureza y limpieza, a la vez me trasmite seguridad, en el caso del color del violeta azulino, que crea una combinación espléndida y magica. Me encantan los colores que se aplicaron y lo que me trasmitió.
+
+Si seguimos desde mi punto de perspectiva, puedo percibir la inocencia y la delicadeza de los personajes mostrados gracias al color rosa pastel. 
+Al darle clic a "Empezar", me fascino como se clasificó las temporadas de manera creativa, con ilustraciones llamativas, me hace a imaginar las inmensas aventuras que podrán involucrados los personajes durante cada temporada.
