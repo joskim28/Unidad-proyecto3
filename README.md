@@ -25,8 +25,11 @@ Una pagina totalmente dirigida al publico que le gusta steven universe y quiere 
 #### Elegimos estos colores porque en su psicología representan paz, y calma. El rosado se puede ver como color inofensivo y pasivo, pasa desapercibido por no ser un  color peligroso, el azul oscuro le da un contraste elegante, ya que el azul representa serenidad y es atractivo para el ojo del cliente, un contraste oscuro y claro, el morado representa lujo, fantasía algo que está fuera que este mundo y eso queremos transmitir en la entrada de nuestra página exclusividad y fantasía 
 ### Link de nuestro proyecto:
 
+##https://Mostrando-los-datos.nicolealdana.repl.co
 
 ### link de Git Hub Pages: 
+
+## https://joskim28.github.io/Unidad-proyecto3/
 
 ### Opinion del usuario:
 #### En el inicio me agrada el fondo de pantalla, como también el blanco representa paz, la pureza y limpieza, a la vez me trasmite seguridad, en el caso del color del violeta azulino, que crea una combinación espléndida y magica. Me encantan los colores que se aplicaron y lo que me trasmitió.
